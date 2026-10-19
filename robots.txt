@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prolongedfasting.app/sitemap.xml
+Sitemap: https://prolongedfasting.github.io/sitemap.xml
